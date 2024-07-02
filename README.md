@@ -1,10 +1,7 @@
 # store
 
-<p align="center">
-  <p align="center">
-    <a href="https://justdjango.com/?utm_source=github&utm_medium=logo" target="_blank">
 
-    </a>
+
   </p>
   <p align="center">
     The Definitive Django Learning Platform.
